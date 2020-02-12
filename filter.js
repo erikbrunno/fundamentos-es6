@@ -7,3 +7,5 @@ const produtos = [
 console.log(produtos.filter((p) => {
     return p.fragil
 }))
+
+console.log(produtos)
